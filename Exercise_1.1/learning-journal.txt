@@ -1,0 +1,14 @@
+Question 1: In your own words, what is the difference between frontend and backend web development? If you were hired to work on backend programming for a web application, what kinds of operations would you be working on?
+
+Answer 1: My understanding is that frontend development focuses on the user's experience, emphasizing design, useability, and accessability. The backend developer works on the more particular nuts and bolts of ensuring the code runs effeciently and effectively.
+
+Question 2: Imagine you’re working as a full-stack developer in the near future. Your team is asking for your advice on whether to use JavaScript or Python for a project, and you think Python would be the better choice. How would you explain the similarities and differences between the two languages to your team? Drawing from what you learned in this Exercise, what reasons would you give to convince your team that Python is the better option?
+
+Answer 2: Python appears to be a more straightforward and reliable code language. Its syntax and formatting are very clear and easy to work with.
+
+Question 3: Now that you’ve had an introduction to Python, write down 3 goals you have for yourself and your learning during this Achievement. You can reflect on the following questions if it helps you. What do you want to learn about Python? What do you want to get out of this Achievement? Where or what do you see yourself working on after you complete this Achievement?
+
+Answer 3: 
+    Goal 1: I want to learn how to competently use Python without guidance.
+    Goal 2: I want to get the skills necessary to build various programs from this Achievement.
+    Goal 3: I hope to just find a steady job that can allow me to improve my skills and build something useful for someone.
