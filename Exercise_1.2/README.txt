@@ -1,0 +1,1 @@
+I chose to use the dictionary structure, because it allows me to make key-value pairs. So I can assign each recipe a name, cooking time, and ingredient list. This just seemed like the easiest approach to take.
