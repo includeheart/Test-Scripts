@@ -1,0 +1,23 @@
+1. Django is popular because it’s a high-level Python framework that follows the “batteries-included” philosophy, offering built-in tools for security, authentication, ORM, and admin dashboards. It enables developers to build scalable, secure, and maintainable applications quickly without reinventing the wheel. Its strong community support and extensive documentation also make it a go-to choice.
+
+2. 
+-Instagram – A global photo and video sharing app; they use Django to manage massive user interactions and scale efficiently.
+
+-Pinterest – A visual discovery and bookmarking platform; Django powers its scalability and rapid development.
+
+-Spotify – A music streaming service; they use Django for backend services, APIs, and handling user data.
+
+-YouTube (Google) – Uses Django in some features for managing video functionality and backend services.
+
+-Dropbox – A cloud storage service; Django helps with file synchronization, sharing, and scalability.
+
+3.
+- Yes. Django’s built-in authentication system, user management, and security features make it ideal.
+
+- Yes. Django’s rapid development framework and modular structure support quick prototyping and scaling.
+
+- No. Django would be overkill; a micro-framework like Flask would be lighter and more efficient.
+
+- Likely no. Django enforces conventions and structure, which reduces flexibility; frameworks like Flask or FastAPI give more low-level control.
+
+- Yes. Django’s large community, detailed documentation, and wide third-party ecosystem provide plenty of support and resources.
